@@ -1,0 +1,10 @@
+start scrapy crawl taiwan_data -a a=0 -a b=3751
+start scrapy crawl taiwan_data -a a=3751 -a b=7502
+start scrapy crawl taiwan_data -a a=7502 -a b=11253
+start scrapy crawl taiwan_data -a a=11253 -a b=15004
+start scrapy crawl taiwan_data -a a=15004 -a b=18755
+start scrapy crawl taiwan_data -a a=18755 -a b=22506
+start scrapy crawl taiwan_data -a a=22506 -a b=26257
+start scrapy crawl taiwan_data -a a=26257 -a b=30008
+start scrapy crawl taiwan_data -a a=30008 -a b=33759
+start scrapy crawl taiwan_data -a a=33759 -a b=37510

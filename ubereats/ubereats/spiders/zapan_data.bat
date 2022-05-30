@@ -1,0 +1,10 @@
+start scrapy crawl zapan_data -a a=0 -a b=7052
+start scrapy crawl zapan_data -a a=7052 -a b=14104
+start scrapy crawl zapan_data -a a=14104 -a b=21156
+start scrapy crawl zapan_data -a a=21156 -a b=28208
+start scrapy crawl zapan_data -a a=28208 -a b=35260
+start scrapy crawl zapan_data -a a=35260 -a b=42312
+start scrapy crawl zapan_data -a a=42312 -a b=49364
+start scrapy crawl zapan_data -a a=49364 -a b=56416
+start scrapy crawl zapan_data -a a=56416 -a b=63468
+start scrapy crawl zapan_data -a a=63468 -a b=70520
